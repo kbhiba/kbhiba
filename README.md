@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hiba k.b
 - 👀 I’m interested in designe
-- 🌱 I’m currently learning HTML/C#/PYTHON
+- 🌱 I’m currently learning UX/UI design using adobe xd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
